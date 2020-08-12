@@ -1,0 +1,1 @@
+istiklal marşındaki kelimelerin sayısını buluyor
